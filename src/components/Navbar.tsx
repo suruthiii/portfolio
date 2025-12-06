@@ -11,7 +11,7 @@ export default function Navbar() {
           </span>
         </div>
         <div className="w-[40%]">
-          <div className="flex justify-between">
+          <div className="flex justify-between text-sm mt-[7px]">
             <div className="hover:text-white hover:bg-linear-to-r from-indigo-500 to-purple-400 bg-size-[100%_3px] bg-no-repeat bg-bottom pb-1 cursor-pointer">
               About
             </div>
